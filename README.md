@@ -17,7 +17,7 @@ You can edit in the script the line "Hoster Name" by your hosting provider name.
 
 # Personal Use
 
-PyPackager also works for personal use, if this is your case all you have to do is open the setup.bat file and then launch the PyPackager.py file
+PyPackager also works for personal use, launch the PyPackager.py file.
 
 # Important
 
