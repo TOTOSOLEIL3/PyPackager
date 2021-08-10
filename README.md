@@ -15,7 +15,7 @@ Just run the server and follow the instructions.
 
 To use the second option you must create a requierements.txt file and mark line by line the modules you want to download.
 Like this:
-```pyfade \n pycenter```
+<img src="https://i.postimg.cc/CLHLQXZN/5-D760-D0-E-E598-4-C16-8204-D49-AE503-DBB7.jpg">
 
 # Note
 
