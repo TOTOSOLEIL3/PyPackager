@@ -11,6 +11,12 @@ Like this:
 
 Just run the server and follow the instructions.
 
+# How to use second option ?
+
+To use the second option you must create a requierements.txt file and mark line by line the modules you want to download.
+Like this:
+```pyfade \n pycenter```
+
 # Note
 
 You can edit in the script the line "Hoster Name" by your hosting provider name.
