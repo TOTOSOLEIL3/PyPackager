@@ -17,6 +17,6 @@ while(True):
             os.system('pip3 install -r requirements.txt -t ./')
             break
         else:
-            print("The \"requirements.txt\" file does not exist or is not a file on your hosting.")
+            print("The \"requirements.txt\" file does not exist or is not a file on your hosting. (Read doc on github for more informations)")
     else:
         print("Please enter a valid number (1 or 2)")
