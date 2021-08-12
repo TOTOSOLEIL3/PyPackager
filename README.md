@@ -37,6 +37,7 @@ Please do not remove the credits in the script.
 
 <p align="center">
 <a href="https://github.com/ybenabdallah">@securitybag#8888</a> for helping me to renforce security
-
+</p>
+<p align="center">
 kernel32#2263 for helping me to fix bugs
 </p>
