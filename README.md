@@ -32,3 +32,9 @@ PyPackager also works for personal use, launch the PyPackager.py file.
 # Important
 
 Please do not remove the credits in the script.
+
+# Thanks to
+
+<p align="center">
+<a href="https://github.com/ybenabdallah">@securitybag#8888</a> for helping me to renforce security
+kernel32#2263 for helping me to fix bugs
