@@ -8,8 +8,13 @@ while(True):
     print("Do you want to install one (1) or more modules (2):")
     response = input()
     if response == "1":
-        print("Which module do you want to install:")
+        chars = ["|", ';', '*', '&', '>', '<', '#']
+        print("Which module do you want to install: ")
         module = input()
+        for char in chars:
+                if char in module:
+                        print(f'Not allowed character detected: {char}')
+                        module = module.replace(char, "")
         os.system('pip3 install '+ module +' -t ./')
         break
     elif response == "2":
